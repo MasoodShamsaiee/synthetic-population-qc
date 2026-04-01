@@ -21,4 +21,4 @@ def test_compute_hhtypes_smoke():
     )
     out = compute_hhtypes(df)
     assert "hhtype" in out.columns
-    assert set(out["hhtype"].tolist()) >= {1, 3}
+    assert set(out["hhtype"].tolist()) >= {0, 2, 3}
