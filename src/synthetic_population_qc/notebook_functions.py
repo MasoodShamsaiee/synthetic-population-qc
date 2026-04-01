@@ -1,5 +1,6 @@
 from __future__ import annotations
 import math
+import os
 import random
 from pathlib import Path
 
@@ -9,10 +10,17 @@ import pandas as pd
 import pyreadstat
 
 
+def _default_data_path() -> str:
+    return os.environ.get(
+        "SYNTHPOP_DATA_ROOT",
+        os.environ.get("SYNTHPOP_QC_DATA_ROOT", "./data"),
+    )
+
+
 
 # ---- from generate_synth_pop.ipynb cell 2 ----
 def load_indiv(
-    data_path="C:/Users/m_hamsai/OneDrive - Concordia University - Canada/Repositories/Synthetic population/Manon code/data",
+    data_path=None,
     rest_of_path="/PUMF",
     file_name="/cen_ind_2021_pumf_v2.dta",
     province="24",
@@ -21,6 +29,7 @@ def load_indiv(
     """
     Load individual-level PUMF data and filter by province.
     """
+    data_path = _default_data_path() if data_path is None else data_path
     dtafile = data_path + rest_of_path + file_name
     if filtered:
         usecols = [
@@ -48,7 +57,7 @@ def load_indiv(
 
 # ---- from generate_synth_pop.ipynb cell 6 ----
 def load_DAs(
-    data_path="C:/Users/m_hamsai/OneDrive - Concordia University - Canada/Repositories/Synthetic population/Manon code/data",
+    data_path=None,
     rest_of_path="/DA labels",
     file_name="/2021_92-151_X.csv",
     province="24",
@@ -56,6 +65,7 @@ def load_DAs(
     """
     Load DA codes and province name from Census lookup table.
     """
+    data_path = _default_data_path() if data_path is None else data_path
     lookup = pd.read_csv(
         data_path + rest_of_path + file_name,
         encoding="ISO-8859-1",
@@ -329,7 +339,7 @@ def load_seed(df_indiv, fast):
 
 # ---- from generate_synth_pop.ipynb cell 19 ----
 def load_census_profile(
-    data_path="C:/Users/m_hamsai/OneDrive - Concordia University - Canada/Repositories/Synthetic population/Manon code/data",
+    data_path=None,
     rest_of_path="/Census",
     starting_row_file="/98-401-X2021006_Geo_starting_row_Quebec.csv",
     census_file='/98-401-X2021006_English_CSV_data_Quebec.csv',
@@ -339,6 +349,8 @@ def load_census_profile(
     cache_path=None,
     force_rebuild_cache=False,
 ):
+    data_path = _default_data_path() if data_path is None else data_path
+
     def _norm_code(x):
         if pd.isna(x):
             return None

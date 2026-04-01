@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import random
 from pathlib import Path
 
@@ -10,6 +11,9 @@ from synthetic_population_qc import notebook_functions as nf
 
 
 def _project_root(cwd: Path | None = None) -> Path:
+    env_root = os.environ.get("SYNTHPOP_PROJECT_ROOT")
+    if env_root:
+        return Path(env_root).resolve()
     here = (cwd or Path.cwd()).resolve()
     return here.parent if here.name.lower() == "notebooks" else here
 
@@ -117,7 +121,12 @@ def run_synthetic_population_pipeline(
 
     # Output paths.
     if output_dir is None:
-        output_dir = _project_root() / "data" / "processed" / "synthetic_population"
+        output_dir = Path(
+            os.environ.get(
+                "SYNTHPOP_OUTPUT_DIR",
+                os.environ.get("SYNTHPOP_QC_OUTPUT_DIR", str(_project_root() / "data" / "processed" / "synthetic_population")),
+            )
+        )
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
