@@ -35,3 +35,7 @@ conda run -n dsm_qc python -c "import synthetic_population_qc; print('ok')"
 - `notebook_functions.py` is a moduleized carry-over from the original notebook workflow and still assumes the project’s census/PUMF data layout.
 - see [docs/data_contracts.md](docs/data_contracts.md) for the main table assumptions used across the workflow.
 - this repo is extractable and installable, but the next round of cleanup should still reduce global state in the notebook-derived code.
+
+## Citation
+
+If you use this repository in research, software, or derivative work, please preserve the license notices and cite the project using [CITATION.cff](CITATION.cff).
