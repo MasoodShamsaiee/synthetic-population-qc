@@ -1,0 +1,14 @@
+seed_name,column,n_non_null,coverage,n_unique,top_value,top_share
+hierarchical_household,weight,37512,1.0,1,100.111805957177,1.0
+hierarchical_household,household_type,37512,1.0,5,one_person,0.3512476007677543
+hierarchical_household,household_size,37512,1.0,5,1,0.3512476007677543
+hierarchical_household,dwelling_type,37505,0.9998133930475581,3,apartment,0.46068524196773764
+hierarchical_household,tenure,37511,0.9999733418639368,2,owner,0.6025432539788329
+hierarchical_household,bedrooms,37512,1.0,5,3_bedrooms,0.3222168905950096
+hierarchical_household,period_built,37496,0.99957346982299,11,1971_to_1980,0.16721783656923406
+hierarchical_household,dwelling_condition,37512,1.0,3,regular_maintenance,0.6906856472595436
+hierarchical_household,core_housing_need,36536,0.9739816592023885,2,not_in_core_need,0.940332822421721
+hierarchical_household,citizenship_status_ref,37189,0.9913894220516102,2,canadian_citizen,0.9458710909139799
+hierarchical_household,immigrant_status_ref,37189,0.9913894220516102,3,non_immigrant,0.8245448923068649
+hierarchical_household,commute_mode_ref,16999,0.4531616549370868,7,car_driver,0.8095182069533502
+hierarchical_household,commute_duration_ref,16555,0.4413254425250587,5,15_to_29_min,0.35783751132588343

@@ -1,0 +1,14 @@
+2021 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - DA name
+COL2 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / Under $10,000 (including loss) ; Both sexes
+COL3 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $10,000 to $19,999 ; Both sexes
+COL4 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $20,000 to $29,999 ; Both sexes
+COL5 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $30,000 to $39,999 ; Both sexes
+COL6 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $40,000 to $49,999 ; Both sexes
+COL7 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $50,000 to $59,999 ; Both sexes
+COL8 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $60,000 to $69,999 ; Both sexes
+COL9 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $70,000 to $79,999 ; Both sexes
+COL10 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $80,000 to $89,999 ; Both sexes
+COL11 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $90,000 to $99,999 ; Both sexes
+COL12 - Income - Total Sex / Total - After-tax income groups in 2020 for the population aged 15 years and over in private households - 100% data ; Both sexes / With after-tax income ; Both sexes / $100,000 and over ; Both sexes

@@ -1,0 +1,6 @@
+2021 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - DA name
+COL2 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data ; Both sexes / No certificate, diploma or degree ; Both sexes
+COL3 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data ; Both sexes / High (secondary) school diploma or equivalency certificate ; Both sexes
+COL4 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data ; Both sexes / Postsecondary certificate, diploma or degree ; Both sexes

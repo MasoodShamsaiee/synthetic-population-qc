@@ -1,0 +1,95 @@
+{
+  "province": "24",
+  "data_root": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das",
+  "census_pumf_root": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\PUMF",
+  "housing_survey_root": null,
+  "person_rows": 223443,
+  "hierarchical_household_rows": 37512,
+  "chs_household_rows": 0,
+  "input_contract": [
+    {
+      "artifact_type": "individual_pumf",
+      "artifact_name": "person_seed_microdata",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\PUMF\\ind\\data_donnees_2021_ind_v2.csv"
+    },
+    {
+      "artifact_type": "household_pumf",
+      "artifact_name": "household_seed_microdata",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\PUMF\\heir\\data_donnees_2021_hier_v2.csv"
+    },
+    {
+      "artifact_type": "housing_survey",
+      "artifact_name": "chs_household_housing_seed",
+      "required": false,
+      "found": false,
+      "details": null
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "age_sex_core",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\age, sex\\fMyRmd2RDbkDqUm_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "education_detailed",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\education\\udDo1DFAvI_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "labour_detailed",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\labour\\EVtduVuRucOlsLjw_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "income_detailed",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\income\\tEVGMRS0SSexK_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "household_type_size_detailed",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\hh type, size\\sl5brrkpJ5_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "dwelling_characteristics",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\dwelling char\\V818MNIvbF_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "housing",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\housing\\GxvbVaVRu_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "immigration_citizenship",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\imm, citiz\\iilmxSwOn_data.csv"
+    },
+    {
+      "artifact_type": "da_census_table",
+      "artifact_name": "commute",
+      "required": true,
+      "found": true,
+      "details": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\census\\DA scale\\commute\\ASmEBfq1h9pC_data.csv"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+unit,attribute,tvd,mae_pp,max_abs_pp,seed_to_census_ratio,fit_rating,recommended_use
+household,core_housing_need,0.0020707679935665427,0.20707679935665427,0.20707679935665496,27.633333333333333,strong,core_housing_need is well aligned and ready to report as a strong result.
+household,core_housing_need,0.0020707679935665427,0.20707679935665427,0.20707679935665496,27.633333333333333,strong,core_housing_need is well aligned and ready to report as a strong result.
+household,tenure,0.002152784017731446,0.2152784017731446,0.2152784017731446,27.793548387096774,strong,tenure is well aligned and ready to report as a strong result.
+household,dwelling_type,0.002414954139092082,0.16099694260613878,0.2414954139092068,31.32,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,dwelling_type,0.00501235673649468,0.334157115766312,0.5012356736494666,24.60857142857143,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,tenure,0.005512999071494856,0.5512999071494856,0.5512999071494884,35.9,strong,tenure is well aligned and ready to report as a strong result.
+household,tenure,0.00570494964645385,0.570494964645385,0.570494964645385,22.092307692307692,strong,tenure is well aligned and ready to report as a strong result.
+household,dwelling_type,0.01039003386765678,0.692668924510452,1.03900338676568,36.65106382978723,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,dwelling_type,0.010689704230257866,0.7126469486838577,1.0689704230257835,24.261971830985914,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,dwelling_type,0.01238562862589562,0.825708575059708,1.2385628625895588,27.783870967741937,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,dwelling_type,0.012943225357018438,0.862881690467896,1.2943225357018417,22.968,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,dwelling_type,0.012943225357018438,0.862881690467896,1.2943225357018417,34.452,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,core_housing_need,0.013975529898328481,1.3975529898328483,1.397552989832851,29.607142857142858,strong,core_housing_need is well aligned and ready to report as a strong result.
+household,household_type,0.015521917607388941,0.6208767042955576,1.5521917607388969,22.673684210526314,strong,household_type is well aligned and ready to report as a strong result.
+household,tenure,0.016757115871033873,1.6757115871033874,1.67571158710339,29.71034482758621,strong,tenure is well aligned and ready to report as a strong result.
+household,household_size,0.016800585672451962,0.6720234268980785,1.6800585672451962,22.092307692307692,strong,household_size is well aligned and ready to report as a strong result.
+household,core_housing_need,0.017222283145081688,1.7222283145081687,1.72222831450817,37.68181818181818,strong,core_housing_need is well aligned and ready to report as a strong result.
+household,core_housing_need,0.017222283145081688,1.7222283145081687,1.72222831450817,37.68181818181818,strong,core_housing_need is well aligned and ready to report as a strong result.
+household,dwelling_type,0.018460466736328823,1.2306977824219216,1.846046673632884,29.7,strong,dwelling_type is well aligned and ready to report as a strong result.
+household,core_housing_need,0.018737434660233233,1.8737434660233234,1.8737434660233254,27.633333333333333,strong,core_housing_need is well aligned and ready to report as a strong result.
+household,tenure,0.02210904426923499,2.210904426923499,2.210904426923499,29.20677966101695,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.02216113028173894,2.216113028173894,2.216113028173894,25.719402985074627,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.022640195053988166,1.5093463369325444,2.2640195053988177,52.2,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.022904101326899892,2.2904101326899893,2.2904101326899906,20.725,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.023957718110641638,1.5971812073761094,2.3957718110641624,24.965217391304346,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.02570700978421124,2.570700978421124,2.5707009784211254,26.317460317460316,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.0263463324048282,2.63463324048282,2.63463324048282,23.933333333333334,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.02658057191513518,2.658057191513518,2.6580571915135187,24.38235294117647,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.027234578958716917,1.8156385972477946,2.7234578958716886,27.34285714285714,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.02762676966081591,1.841784644054394,2.7626769660815897,21.80506329113924,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.028338874412196326,1.133554976487853,2.6922904124359714,27.793548387096774,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.028657043977378213,1.1462817590951284,2.594538701781035,26.10909090909091,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.029184905159835496,1.1673962063934198,2.865101472343806,30.771428571428572,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.029502152654862005,1.9668101769908002,2.950215265486201,35.155102040816324,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.029776116574763645,2.9776116574763645,2.9776116574763645,35.16734693877551,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03021595262974574,2.014396841983049,3.0215952629745746,39.15,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.030583620540421408,3.058362054042141,3.058362054042141,14.603389830508474,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03120283292697088,2.0801888617980584,3.1202832926970854,28.71,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03120283292697088,2.0801888617980584,3.1202832926970854,47.85,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.03134597528747951,3.134597528747951,3.134597528747951,26.51076923076923,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03216315762170495,2.1442105081136633,3.2163157621704963,36.65106382978723,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.03224295749662953,3.224295749662953,3.224295749662953,48.76470588235294,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03358378530792326,2.2389190205282175,3.358378530792324,49.21714285714286,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03407530082871657,2.2716867219144383,3.407530082871657,32.50188679245283,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.0360904391690572,1.443617566762288,3.3181931567787757,25.719402985074627,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03627655869035176,2.418437246023451,3.6276558690351735,28.71,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.037558609972403095,2.5039073314935396,3.7558609972403123,26.501538461538463,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.03767282175002319,3.767282175002319,3.7672821750023204,25.50769230769231,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.03942971184350495,2.6286474562336637,3.9429711843504966,23.278378378378378,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.03959589867310011,3.9595898673100107,3.959589867310012,29.607142857142858,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.04062798192391481,4.062798192391481,4.062798192391481,24.746268656716417,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.040747636101794465,1.6299054440717786,2.3747939287135478,35.16734693877551,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.040809490906109844,4.080949090610984,4.080949090610986,16.097087378640776,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.04105221475776935,4.105221475776935,4.105221475776938,33.78823529411765,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.04325941004213983,1.7303764016855934,3.746160988500822,26.51076923076923,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.04617484604152114,4.617484604152114,4.617484604152117,21.81578947368421,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.05093794753159277,2.0375179012637106,4.813079332105816,29.20677966101695,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.05244395808462661,2.0977583233850643,5.244395808462659,30.771428571428572,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.05294322535701845,3.5295483571345634,5.294322535701845,29.196610169491525,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.05294322535701845,3.5295483571345634,5.294322535701845,28.71,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.05294322535701845,3.5295483571345634,5.294322535701845,34.452,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.05294322535701845,3.5295483571345634,5.294322535701845,21.80506329113924,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.05294322535701845,3.5295483571345634,5.294322535701845,31.32,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.05313265748837437,3.5421771658916246,5.313265748837436,45.33157894736842,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.05472904532793113,2.1891618131172454,4.19515489153372,39.163636363636364,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.05533679412509494,2.213471765003798,4.274288849497763,31.330909090909092,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.0564066852367688,2.2562674094707518,5.203293749694571,30.231578947368423,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.05658860745827127,2.2635442983308507,3.629969121806914,40.074418604651164,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.057453041530242985,5.745304153024298,5.7453041530243,26.317460317460316,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.0598653667595172,2.394614670380688,5.9586815227483765,43.08,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,period_built,0.06067012685116531,1.103093215475733,3.4691188553335603,12.397122302158273,good,period_built is reasonably aligned and suitable for the main results with light caveats.
+household,period_built,0.06112135812692915,1.1112974204896209,2.003187031042185,15.524324324324324,good,period_built is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.061814280029560555,2.472571201182422,6.181428002956052,35.16734693877551,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.06206061811911391,6.2060618119113915,6.206061811911392,30.771428571428572,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.06274404682124825,6.274404682124825,6.2744046821248265,30.703703703703702,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.06291374738124812,4.1942498254165415,6.291374738124814,15.24424778761062,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.0636536675951718,6.36536675951718,6.365366759517182,34.464,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,period_built,0.06448152455129766,1.172391355478139,2.886591665089111,16.730097087378642,good,period_built is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.06476887751261012,2.590755100504405,6.087542974729601,23.286486486486485,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.06491268236221875,2.59650729448875,4.568753895269712,23.605479452054794,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.06520427112349114,2.6081708449396457,6.520427112349118,28.72,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.06772084013703454,2.7088336054813817,3.9461467038068707,59.42068965517242,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,period_built,0.06804125792257072,1.2371137804103767,2.023535585967462,14.984347826086957,good,period_built is reasonably aligned and suitable for the main results with light caveats.
+household,period_built,0.06890911446524586,1.2528929902771975,3.7793396817170866,13.35813953488372,good,period_built is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.07079387186629527,2.8317548746518106,7.079387186629521,34.464,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.07178505106778085,2.8714020427112343,5.483983286908075,35.9,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.07234089561588973,2.8936358246355893,7.234089561588974,20.76144578313253,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.07249063551520539,7.249063551520539,7.249063551520541,21.81578947368421,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.07489643596885934,2.9958574387543733,7.489643596885931,22.092307692307692,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.07587279480037142,3.0349117920148565,7.587279480037146,22.976,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.07836143943386281,3.1344575773545125,7.836143943386276,46.57297297297297,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.07853032490260828,7.853032490260828,7.853032490260831,27.18032786885246,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.07882137883008358,5.254758588672239,7.8821378830083555,26.925,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.0789229340761374,3.156917363045496,7.489643596885931,22.092307692307692,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.07962502092941837,7.962502092941836,7.962502092941836,28.249180327868853,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.07964773653193867,3.1859094612775465,4.223987645197353,35.16734693877551,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.07991776097625679,7.991776097625679,7.99177609762568,30.771428571428572,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_type,0.07994497129175072,5.329664752783382,7.994497129175074,32.50188679245283,good,dwelling_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.07996750232126275,3.19870009285051,7.079387186629521,34.464,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.08051047595979174,3.22041903839167,8.051047595979178,14.984347826086957,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.08079652473802892,8.079652473802893,8.079652473802895,24.617142857142856,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.08079652473802892,8.079652473802893,8.079652473802895,20.514285714285716,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.08080710800292376,3.23228432011695,8.08071080029238,36.66382978723404,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.08180129990714952,5.453419993809968,8.180129990714951,35.9,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.0818626228190524,8.18626228190524,8.186262281905243,25.719402985074627,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.08223073351903432,3.289229340761372,7.329387186629521,35.9,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.08331645142230101,5.554430094820067,8.331645142230105,26.10909090909091,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.08465355153203342,3.3861420612813373,8.46535515320334,26.925,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,35.276595744680854,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,42.51282051282051,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,63.76923076923077,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,43.63157894736842,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,36.04347826086956,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,37.68181818181818,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,41.45,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,37.68181818181818,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,core_housing_need,0.08540410132689989,8.540410132689988,8.54041013268999,33.83673469387755,good,core_housing_need is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.08664000958456886,5.776000638971257,8.664000958456885,27.793548387096774,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.08771694878937218,3.5086779515748874,8.771694878937215,33.13846153846154,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.08852085099511524,3.540834039804609,8.450405716361875,37.46086956521739,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.08911101297642504,5.940734198428336,8.911101297642505,42.02926829268293,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.08917834908747738,5.945223272498492,8.917834908747741,28.249180327868853,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.08994083479087044,5.996055652724696,8.994083479087045,40.074418604651164,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09001025513103009,6.000683675402006,9.001025513103011,25.719402985074627,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,tenure,0.09032033426183847,9.032033426183848,9.03203342618385,57.44,good,tenure is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09077565888150849,6.051710592100566,9.07756588815085,22.092307692307692,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.09116527390900654,3.646610956360262,7.253946146703816,28.72,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09132510943095903,6.088340628730602,9.132510943095905,20.514285714285716,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.09137650882079851,3.6550603528319403,7.329387186629521,35.9,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.09155333442569227,3.662133377027691,5.6741220164946204,25.341176470588234,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.0918012999071495,6.120086660476633,9.180129990714953,34.464,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.09265440399577371,3.7061761598309486,9.265440399577374,29.71034482758621,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09320480867907932,6.213653911938621,9.320480867907937,30.231578947368423,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.0932288463625511,6.215256424170073,9.322884636255107,22.37922077922078,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.09481044480650304,3.7924177922601214,9.481044480650308,32.51320754716981,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09487822298407259,6.325214865604839,9.487822298407261,26.51076923076923,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.09569953224365371,3.8279812897461483,9.569953224365369,32.51320754716981,good,household_size is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09608701419286378,6.405800946190919,9.60870141928638,30.771428571428572,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.09634898527656187,3.853959411062475,9.634898527656189,15.385714285714286,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,household_type,0.0971334039520316,3.8853361580812638,9.483993095060617,24.270422535211267,good,household_type is reasonably aligned and suitable for the main results with light caveats.
+household,bedrooms,0.09806485947867835,3.922594379147134,9.251364449577643,42.02926829268293,good,bedrooms is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09877330190700664,6.584886793800443,9.877330190700661,33.13846153846154,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.0998012999071495,6.653419993809967,9.980129990714953,34.464,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,dwelling_condition,0.09998209311579787,6.665472874386524,9.998209311579787,49.23428571428571,good,dwelling_condition is reasonably aligned and suitable for the main results with light caveats.
+household,household_size,0.1004451362717789,4.017805450871156,5.491151892511875,25.341176470588234,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.10095780629252477,4.038312251700991,10.09578062925247,28.249180327868853,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,core_housing_need,0.10103657663920178,10.103657663920178,10.103657663920181,28.10169491525424,moderate,"core_housing_need is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.10110621489565735,6.740414326377158,10.11062148956573,28.249180327868853,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.1011738061180958,4.046952244723832,7.836143943386276,46.57297297297297,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.10255795546219762,4.102318218487905,10.09578062925247,28.249180327868853,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.1028157926607727,6.854386177384847,10.281579266077273,24.973913043478262,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.1031483318706198,4.125933274824792,8.356386970402308,23.605479452054794,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.10322987133572092,6.881991422381395,10.322987133572099,30.771428571428572,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.10322987133572092,6.881991422381395,10.322987133572099,35.16734693877551,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.10328258572663529,6.885505715109019,10.328258572663529,14.855172413793104,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.10432762215097839,4.173104886039136,9.698498624761303,32.51320754716981,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.10454387186629524,4.181754874651809,10.454387186629521,53.85,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.10514843362460413,7.0098955749736085,10.514843362460407,23.605479452054794,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.10569637883008358,7.046425255338905,10.569637883008355,34.464,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.1059948482942463,7.06632321961642,10.599484829424632,27.793548387096774,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.10623424857408147,1.9315317922560267,6.205730202944687,8.205714285714286,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.10728509993647067,4.291403997458827,10.728509993647068,30.231578947368423,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.10755206260777293,4.302082504310918,10.349184241941911,24.617142857142856,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.10826905221055641,10.826905221055641,10.826905221055643,26.51076923076923,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.1102662551130518,4.410650204522073,8.380072272829942,23.286486486486485,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.11111164473473573,7.407442982315715,11.111164473473572,29.71034482758621,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.11220984215413181,4.4883936861652725,11.07938718662952,43.08,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.11259555335088588,4.503822134035436,11.096112997799567,23.605479452054794,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.11424214772836422,4.569685909134568,11.424214772836416,29.71034482758621,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.1157812707255604,4.631250829022416,10.007958615200952,30.771428571428572,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.11632477220150136,4.652990888060055,11.63247722015014,29.20677966101695,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.1163817844179961,4.655271376719844,9.55073014265215,31.330909090909092,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.11698945358350414,4.679578143340166,10.633354356090466,32.51320754716981,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.11800819645887364,7.867213097258243,11.800819645887367,29.71034482758621,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,core_housing_need,0.11829960237680381,11.829960237680382,11.829960237680382,30.703703703703702,moderate,"core_housing_need is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.11846796657381617,7.897864438254411,11.84679665738162,57.44,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.11948952404020828,4.779580961608331,11.948952404020824,37.46086956521739,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.1194895240402083,4.779580961608332,11.948952404020824,37.46086956521739,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.12020539173310285,12.020539173310285,12.020539173310285,29.71034482758621,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,dwelling_condition,0.12127498411767582,8.084998941178387,12.127498411767585,45.34736842105263,moderate,"dwelling_condition is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.12145122200714478,4.858048880285791,12.145122200714475,29.20677966101695,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.12511724344144912,5.004689737657965,11.63247722015014,29.20677966101695,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.12783194057567318,5.113277623026927,10.587279480037148,28.72,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.12828641939109608,5.131456775643843,12.011313101695741,45.34736842105263,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.12930044470507743,5.172017788203097,8.974124028734787,45.34736842105263,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.1302671562420866,5.210686249683464,11.685447792690129,52.21818181818182,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.1306950981333846,5.227803925335383,12.713716261646347,29.71034482758621,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.13391007785158204,13.391007785158205,13.391007785158205,22.092307692307692,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.13685954250021107,5.4743817000084425,13.685954250021105,26.10909090909091,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.13936530043772383,5.574612017508953,13.936530043772377,24.617142857142856,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.13986536675951716,5.594614670380686,8.958681522748375,34.464,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.14033890436397403,5.613556174558961,13.92061281337048,28.72,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.14060220188353895,2.5564036706097992,6.681920679135164,15.385714285714286,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.14265728123666846,2.5937687497576083,4.451178197696304,15.524324324324324,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.14872151989143637,5.948860795657454,11.125991000642815,33.13846153846154,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.15022307728624712,6.008923091449884,15.022307728624718,29.20677966101695,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.15082217629616315,2.7422213872029664,8.592416209902055,13.896774193548387,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.15222509616660038,15.222509616660037,15.22250961666004,27.35238095238095,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.15485345767227804,6.194138306891121,13.398227766339666,24.973913043478262,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.15502621661477967,15.502621661477967,15.502621661477967,33.78823529411765,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.15896007428040854,6.358402971216341,13.936530043772377,49.23428571428571,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.15943206437635407,6.3772825750541635,14.96827607551841,47.86666666666667,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.15986536675951718,6.394614670380687,9.387186629526461,28.72,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.1637999944150069,2.978181716636489,7.809740228007344,12.95639097744361,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.1644872588465903,6.579490353863612,16.448725884659034,31.91111111111111,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.17223136659069804,6.889254663627923,17.223136659069805,31.330909090909092,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.17359322716840977,6.943729086736392,16.159930624901452,32.51320754716981,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.1836536675951718,18.36536675951718,18.365366759517183,34.464,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.18706830174151326,18.706830174151325,18.706830174151328,42.02926829268293,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.1871979989767495,3.403599981395445,10.775870236674056,11.722448979591837,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.18876994666493926,18.876994666493925,18.87699466649393,40.074418604651164,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.18967661691542284,3.4486657620985968,10.542343990354631,12.859701492537313,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.19991170523867788,3.6347582770668705,10.235467159555355,16.104672897196263,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.2021561951924069,3.675567185316489,10.832559579077683,15.955555555555556,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.20523999838520846,3.7316363342765175,11.677970207097005,18.730434782608697,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_type,0.2081012070566388,8.324048282265553,18.470691534455607,37.46086956521739,moderate,"household_type is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.2137560050058536,3.8864728182882473,11.243187598401356,14.984347826086957,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.21417556101014,8.5670224404056,21.417556101014,17.061386138613862,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.21700822390237434,8.680328956094973,19.932683379758593,49.23428571428571,moderate,"bedrooms is usable, but should be reported with caution and discussed as a partial-strength result."
+household,household_size,0.2202030394330434,8.808121577321735,20.46714228867034,35.16734693877551,moderate,"household_size is usable, but should be reported with caution and discussed as a partial-strength result."
+household,tenure,0.2236536675951718,22.36536675951718,22.36536675951718,45.34736842105263,moderate,"tenure is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.23484758687449378,4.269956124990796,8.788695944210671,36.66382978723404,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.23611111111111108,4.292929292929292,11.388115134633237,19.14666666666667,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,period_built,0.23735549501566217,4.315554454830221,12.084085830603936,18.936263736263736,moderate,"period_built is usable, but should be reported with caution and discussed as a partial-strength result."
+household,bedrooms,0.25143013392505864,10.057205357002346,25.143013392505864,29.20677966101695,weak,bedrooms is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.27003113223005076,4.909656949637286,14.917526899339123,16.894117647058824,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,bedrooms,0.27041318477251625,10.81652739090065,27.04131847725163,34.464,weak,bedrooms is currently weak and should be framed as a limitation or refinement target.
+household,tenure,0.27365366759517185,27.365366759517183,27.365366759517183,28.72,weak,tenure is currently weak and should be framed as a limitation or refinement target.
+household,bedrooms,0.276127470486802,11.045098819472079,27.6127470486802,24.617142857142856,weak,bedrooms is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.2862970617306137,5.205401122374795,12.785964596998827,11.11741935483871,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.2905654596100278,5.28300835654596,15.52144846796657,13.7856,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,tenure,0.2950822390237432,29.50822390237432,29.508223902374326,49.23428571428571,weak,tenure is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.3115066360806161,5.663757019647565,15.897919056201864,25.341176470588234,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.3232524207454569,5.877316740826489,17.57859132510943,17.583673469387755,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.3288546616418155,5.979175666214827,17.85870336992736,16.894117647058824,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.33561480302427377,6.102087327714068,16.150019896538005,24.617142857142856,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.3494428969359331,6.353507217016966,18.88811513463324,14.36,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.35499845249148865,6.454517318027066,19.165892912411014,19.14666666666667,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.3891864866795229,7.076117939627689,20.875294621812728,22.092307692307692,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+household,period_built,0.3929388318952827,7.14434239809605,21.062911882600723,21.014634146341464,weak,period_built is currently weak and should be framed as a limitation or refinement target.
+person,citizenship_status,0.0012088190722166076,0.12088190722166076,0.12088190722166214,31.145454545454545,strong,citizenship_status is well aligned and ready to report as a strong result.
+person,sex,0.0012221793387366675,0.12221793387366675,0.12221793387366953,25.91,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.0012221793387366675,0.12221793387366675,0.12221793387366953,38.865,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.0012221793387366675,0.12221793387366675,0.12221793387366953,33.07659574468085,strong,sex is well aligned and ready to report as a strong result.
+person,citizenship_status,0.002331741169374582,0.2331741169374582,0.23317411693746237,31.787628865979382,strong,citizenship_status is well aligned and ready to report as a strong result.
+person,sex,0.003051324934767591,0.3051324934767591,0.30513249347676186,26.574358974358976,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.004801917046805493,0.4801917046805493,0.48019170468055483,37.46024096385542,strong,sex is well aligned and ready to report as a strong result.
+person,citizenship_status,0.0075716600807268775,0.7571660080726877,0.7571660080726905,24.278740157480314,strong,citizenship_status is well aligned and ready to report as a strong result.
+person,labour_force_status,0.00900828623835856,0.6005524158905706,0.9008286238358559,27.980434782608697,strong,labour_force_status is well aligned and ready to report as a strong result.
+person,household_income,0.00938241488205286,0.469120744102643,0.9382414882052881,22.780530973451327,strong,household_income is well aligned and ready to report as a strong result.
+person,sex,0.009418900650212086,0.9418900650212086,0.9418900650212114,16.990163934426228,strong,sex is well aligned and ready to report as a strong result.
+person,citizenship_status,0.009869708135342839,0.9869708135342838,0.9869708135342853,33.15483870967742,strong,citizenship_status is well aligned and ready to report as a strong result.
+person,sex,0.010656141602887609,1.065614160288761,1.0656141602887637,29.332075471698115,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.011289293432696412,1.1289293432696412,1.1289293432696412,20.86711409395973,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.01211115399459664,1.211115399459664,1.2111153994596668,20.728,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.012500374827458471,1.2500374827458471,1.2500374827458527,23.377443609022556,strong,sex is well aligned and ready to report as a strong result.
+person,labour_force_status,0.012542290279062895,0.8361526852708597,1.2542290279062867,29.25227272727273,strong,labour_force_status is well aligned and ready to report as a strong result.
+person,household_income,0.01547124813787653,0.7735624068938265,1.338026503801941,37.30724637681159,strong,household_income is well aligned and ready to report as a strong result.
+person,citizenship_status,0.015962898099500564,1.5962898099500564,1.5962898099500578,34.26,strong,citizenship_status is well aligned and ready to report as a strong result.
+person,sex,0.016019199971608167,1.6019199971608167,1.6019199971608167,26.80344827586207,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.016847179338736668,1.6847179338736669,1.6847179338736695,48.58125,strong,sex is well aligned and ready to report as a strong result.
+person,sex,0.017011653022947215,1.7011653022947215,1.7011653022947215,32.72842105263158,strong,sex is well aligned and ready to report as a strong result.
+person,education_level,0.01701509065757172,1.1343393771714478,1.7015090657571674,20.90485436893204,strong,education_level is well aligned and ready to report as a strong result.
+person,sex,0.017615621961687505,1.7615621961687506,1.7615621961687533,25.485245901639345,strong,sex is well aligned and ready to report as a strong result.
+person,education_level,0.017690857339303617,1.1793904892869078,1.7690857339303645,24.74942528735632,strong,education_level is well aligned and ready to report as a strong result.
+person,citizenship_status,0.017913703867100228,1.7913703867100228,1.7913703867100228,23.53740458015267,strong,citizenship_status is well aligned and ready to report as a strong result.
+person,education_level,0.018228682890581452,1.2152455260387636,1.8228682890581438,33.64375,strong,education_level is well aligned and ready to report as a strong result.
+person,labour_force_status,0.018726691787739877,1.2484461191826584,1.872669178773989,16.08875,strong,labour_force_status is well aligned and ready to report as a strong result.
+person,labour_force_status,0.019320599688951223,1.2880399792634147,1.9320599688951223,22.580701754385966,strong,labour_force_status is well aligned and ready to report as a strong result.
+person,sex,0.020702698819256127,2.0702698819256127,2.0702698819256184,40.37922077922078,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.020951560231019836,2.0951560231019837,2.095156023101985,31.463265306122448,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.022584573577160146,1.505638238477343,2.2584573577160114,29.932558139534883,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.02316806456370238,2.3168064563702377,2.316806456370241,37.917073170731705,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.023257286754341244,1.1628643377170622,1.690792080953274,21.631932773109245,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.024815289588611886,1.6543526392407926,2.481528958861184,31.787628865979382,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.025645375856814638,1.7096917237876426,2.5645375856814647,26.26734693877551,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.02639178612736249,1.7594524084908327,2.639178612736248,24.28490566037736,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.027079707453716156,2.7079707453716155,2.707970745371618,29.332075471698115,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.027249419060467156,1.8166279373644771,2.7249419060467184,33.43116883116883,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.028562631468388534,1.4281315734194266,2.608937116745358,47.67037037037037,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.02931206697918609,2.931206697918609,2.931206697918615,34.934831460674154,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.029390065559222522,2.9390065559222522,2.9390065559222522,31.726530612244897,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.02952406613118949,2.9524066131189493,2.952406613118952,29.332075471698115,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.030633944044619027,3.063394404461903,3.0633944044619055,26.127731092436974,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.03115564186367291,3.115564186367291,3.1155641863672923,31.463265306122448,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.031222179338736694,3.1222179338736695,3.122217933873672,31.092,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.031222179338736694,3.1222179338736695,3.122217933873672,31.092,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.03211115399459666,3.2111153994596657,3.2111153994596684,23.031111111111112,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03213821289243912,2.142547526162608,3.213821289243916,47.84888888888889,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03213821289243912,2.142547526162608,3.213821289243916,37.77543859649123,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.032180419140492716,2.1453612760328475,3.2180419140492695,24.992233009708738,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.032794020412920066,1.6397010206460032,3.0892102004347723,26.26734693877551,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03363964179469105,2.2426427863127363,3.3639641794691033,29.495890410958904,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03385368289058145,2.25691219270543,3.385368289058144,33.64375,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.03393245971256842,3.393245971256842,3.3932459712568477,29.057943925233644,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.03448141661801907,3.4481416618019067,3.4481416618019067,22.84,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.035560777474807945,2.37071849832053,3.556077747480793,39.03037974683544,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03557619666852438,2.371746444568292,3.5576196668524367,28.709333333333333,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.035819631944574666,1.7909815972287333,3.120889248484296,29.588505747126437,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03701639592406822,2.4677597282712145,3.7016395924068233,26.582716049382714,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.03716807682997538,2.4778717886650257,3.716807682997536,32.624242424242425,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.03723935912280177,3.7239359122801767,3.7239359122801794,34.167032967032966,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.03815190759537977,1.526076303815191,3.1096867343367167,35.7125,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.038801313371636274,2.586754224775752,3.880131337163628,25.942168674698795,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.04068115475543028,2.712076983695352,4.068115475543024,30.645238095238096,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.04072410846088105,2.7149405640587365,4.072410846088104,25.742,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.04136816474019653,4.1368164740196525,4.136816474019655,22.694890510948905,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.041533767636344185,2.7689178424229457,4.153376763634419,36.49491525423729,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.04198349508331845,2.0991747541659227,4.198349508331842,27.980434782608697,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.043108792075155986,2.8739194716770657,4.310879207515594,31.787628865979382,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.04322868289058146,2.881912192705431,4.322868289058146,30.76,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.04394147909012977,4.394147909012977,4.39414790901298,37.149397590361446,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.044463250791816025,2.964216719454402,4.446325079181602,26.582716049382714,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.0445292659529099,4.45292659529099,4.45292659529099,24.481889763779527,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.045145787318112654,2.2572893659056326,4.51457873181127,30.645238095238096,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.045793573996510836,2.289678699825542,3.540552757785298,29.25227272727273,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.046241349840191424,3.0827566560127617,4.624134984019139,29.588505747126437,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.04661020131570413,4.661020131570413,4.661020131570415,32.456842105263156,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.04762859676564042,3.175239784376028,4.762859676564046,23.53740458015267,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.04762859676564042,3.175239784376028,4.762859676564046,23.53740458015267,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.04792599078938832,4.792599078938832,4.792599078938833,38.5425,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.04798149074989203,2.3990745374946014,3.136671045237807,29.932558139534883,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.04805580885630281,2.4027904428151405,3.681061873080649,33.87105263157895,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.04840053260919473,3.2267021739463155,4.840053260919475,34.64494382022472,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.04857145274414752,3.2380968496098346,4.857145274414748,26.812173913043477,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.049111035831757924,3.2740690554505285,4.911103583175791,25.331764705882353,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.0493620749364139,3.2908049957609267,4.936207493641391,26.582716049382714,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.05053877212978588,3.3692514753190586,5.053877212978586,26.53814432989691,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.05179311033420718,5.179311033420718,5.179311033420719,34.64494382022472,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.05306311154082631,3.5375407693884204,5.306311154082632,31.780246913580246,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.05382284563389371,3.5881897089262473,5.382284563389373,19.801538461538463,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.055083699858981844,3.6722466572654566,5.508369985898187,22.780530973451327,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.05521587633469022,2.7607938167345107,5.521587633469019,32.584810126582276,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.055434100512183025,2.771705025609151,5.5434100512183,19.801538461538463,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.05583088025238783,3.722058683492522,5.58308802523878,32.80212765957447,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.055841164027142225,3.7227442684761485,5.584116402714222,33.15483870967742,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.0559851150325861,2.799255751629305,4.364588872397124,33.43116883116883,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.05608164279839796,5.608164279839796,5.6081642798398,23.53740458015267,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.05633781689084452,2.2535126756337807,5.633781689084455,32.651428571428575,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.05670363884024132,3.7802425893494216,5.6703638840241295,34.26,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.056703638840241335,3.7802425893494225,5.6703638840241295,22.84,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.05710231181894853,2.8551155909474266,5.710231181894853,31.014457831325302,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.057283816331287374,2.864190816564369,5.5860073032398425,16.08875,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.05797748758996543,3.8651658393310284,5.797748758996546,20.693959731543625,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.061596029829356976,4.106401988623799,6.159602982935697,21.97142857142857,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.06182823994479725,6.182823994479724,6.1828239944797305,47.10909090909091,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.061973338069672076,6.197333806967207,6.197333806967209,20.693959731543625,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.06258734454881566,4.172489636587711,6.258734454881565,31.145454545454545,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.06386360352550206,4.257573568366804,6.386360352550202,34.17777777777778,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.06592579163992937,3.2962895819964686,5.308229525462063,31.780246913580246,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.06640099121960519,4.42673274797368,6.640099121960519,31.463265306122448,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.06778164995206283,2.7112659980825136,6.521739130434782,24.843478260869563,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.06896252918855807,4.597501945903871,6.896252918855805,24.0890625,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.06942380333147564,4.6282535554317095,6.942380333147563,17.94333333333333,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.06955670236179815,4.637113490786543,6.955670236179813,36.49491525423729,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.07022110088366751,4.681406725577833,7.022110088366751,33.87105263157895,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.07031725245385491,7.031725245385491,7.031725245385492,27.778378378378378,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.07081871589679839,3.5409357948399194,7.081871589679833,39.60307692307693,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.07116849739958807,7.116849739958806,7.116849739958808,24.278740157480314,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.07207343125776977,2.882937250310791,7.207343125776977,39.40689655172414,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.07306630126923808,3.653315063461904,6.722370939603478,23.401818181818182,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.07308593548521888,4.872395699014592,7.308593548521891,21.631932773109245,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.07312640820449069,3.656320410224535,7.312640820449068,25.742,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.07359586878909685,3.6797934394548424,5.827203927245184,24.992233009708738,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.07583876075325711,5.055917383550474,7.583876075325713,44.38275862068966,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.07707400921061168,7.707400921061168,7.707400921061169,16.401063829787233,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.07707400921061168,7.707400921061168,7.707400921061169,28.55,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.0775505378886393,5.17003585924262,7.755053788863931,27.963636363636365,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.07782055769455139,3.1128223077820554,7.78205576945514,38.093333333333334,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.07854003811301676,3.14160152452067,7.30272624742348,31.744444444444444,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.07868691243641811,7.868691243641811,7.868691243641813,19.892903225806453,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.0792548793597083,5.283658623980553,7.925487935970832,38.42089552238806,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.07937896894844741,3.1751587579378966,7.937896894844745,40.81428571428572,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.0794983707102607,3.974918535513035,4.863829767786232,30.28470588235294,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.07973661939851796,5.3157746265678645,7.9736619398517945,34.17777777777778,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.0799027349754348,7.99027349754348,7.990273497543485,35.853488372093025,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.07997170691867929,3.1988682767471714,7.997170691867927,23.808333333333334,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.08067026785361348,4.033513392680674,8.067026785361348,22.580701754385966,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.08104226317886563,5.402817545257709,8.104226317886562,16.314285714285713,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.08262262228452087,5.508174818968058,8.262262228452089,65.24848484848485,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.08322868289058143,5.548578859372095,8.322868289058139,43.064,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.08375677893685966,5.583785262457311,8.375677893685966,26.812173913043477,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.08467600799394809,3.387040319757924,6.451612903225806,36.86451612903226,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.08525766839782781,5.683844559855187,8.525766839782777,31.205797101449274,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.08767312733502589,5.844875155668392,8.767312733502585,29.905555555555555,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.08812640820449072,4.406320410224536,8.812640820449069,21.451666666666668,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,sex,0.08817870107786713,8.817870107786712,8.817870107786712,33.79565217391304,good,sex is reasonably aligned and suitable for the main results with light caveats.
+person,labour_force_status,0.08891219710114898,5.927479806743265,8.891219710114894,47.67037037037037,good,labour_force_status is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.0902319039474538,9.023190394745379,9.023190394745384,27.04736842105263,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,age_group,0.09210552445783327,1.2280736594377768,3.651428063240765,20.86711409395973,good,age_group is reasonably aligned and suitable for the main results with light caveats.
+person,education_level,0.09238122526346282,6.158748350897522,9.238122526346281,36.49491525423729,good,education_level is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.0955925277291302,6.372835181942013,9.559252772913018,28.55,good,immigrant_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.0959026988084559,4.795134940422795,8.585368093176339,29.25227272727273,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.09633907621306988,3.853563048522795,9.633907621306992,42.32592592592592,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.09839183866797603,9.839183866797603,9.839183866797608,23.90232558139535,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,household_income,0.09890131014580045,4.945065507290022,9.890131014580048,26.53814432989691,good,household_income is reasonably aligned and suitable for the main results with light caveats.
+person,citizenship_status,0.09900383377201517,9.900383377201518,9.90038337720152,27.04736842105263,good,citizenship_status is reasonably aligned and suitable for the main results with light caveats.
+person,commute_duration,0.0991949597479874,3.9677983899194955,9.919495974798743,28.57,good,commute_duration is reasonably aligned and suitable for the main results with light caveats.
+person,immigrant_status,0.10114808328468573,6.743205552312383,10.114808328468575,36.27529411764706,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,education_level,0.10156201622391481,6.77080108159432,10.156201622391482,44.858333333333334,moderate,"education_level is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.10168415397514062,4.0673661590056245,8.169652668679944,26.57674418604651,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,education_level,0.10241235635996918,6.827490423997945,10.241235635996915,21.97142857142857,moderate,"education_level is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.10269847088158496,6.846564725438997,10.269847088158496,23.90232558139535,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,household_income,0.1032483172177058,5.16241586088529,10.324831721770577,33.43116883116883,moderate,"household_income is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.10331055434135156,6.887370289423438,10.331055434135157,37.30724637681159,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.10401353401003384,4.1605413604013535,8.333333333333332,31.744444444444444,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.10401353401003385,4.160541360401354,10.401353401003382,63.48888888888889,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.1041524408950113,1.388699211933484,3.2212095122168454,26.574358974358976,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.1051714969825451,7.011433132169674,10.517149698254514,33.43116883116883,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.10544915855350294,7.0299439035668625,10.544915855350295,33.15483870967742,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.1072056074503905,7.1470404966927,10.720560745039053,31.014457831325302,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.10812358799758168,4.324943519903266,10.81235879975817,51.945454545454545,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.10896272864011657,1.452836381868221,4.611096883412627,29.057943925233644,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.10958047902395118,4.383219160958047,8.122191823876909,23.322448979591837,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,household_income,0.1102962195252454,5.51481097626227,11.029621952524538,24.28490566037736,moderate,"household_income is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.11309239505386616,7.539493003591077,11.309239505386614,31.145454545454545,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.11465642242434514,7.643761494956343,11.465642242434516,19.892903225806453,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.11514426777854404,1.5352569037139208,4.524278028400115,16.990163934426228,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.11539302714524634,1.5385736952699511,4.349414640421974,31.092,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.11569424625077408,4.627769850030964,6.320508333108965,43.95384615384615,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,citizenship_status,0.11707400921061169,11.707400921061168,11.707400921061172,30.834,moderate,"citizenship_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.11711105303677752,7.807403535785168,11.711105303677755,23.401818181818182,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.11742139938287052,7.828093292191368,11.742139938287055,24.47142857142857,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.12199922809725972,1.6266563746301297,4.3737939019683525,25.91,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.123249462535592,1.6433261671412267,4.819277108433735,37.46024096385542,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.12355271997696604,8.236847998464402,12.355271997696605,30.28470588235294,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.12450276598481924,1.6600368797975897,5.682747973755306,20.728,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.1271208297256968,5.084833189027872,7.448925077832835,30.073684210526316,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,citizenship_status,0.12814927802781595,12.814927802781595,12.814927802781598,33.15483870967742,moderate,"citizenship_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.12926943532158972,1.7235924709545294,9.284800555381596,29.332075471698115,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,household_income,0.13209192544587003,6.604596272293501,13.209192544587001,44.38275862068966,moderate,"household_income is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.13257476516596375,1.7676635355461834,5.12559383454424,22.694890510948905,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,citizenship_status,0.13338031551691798,13.338031551691799,13.338031551691799,27.778378378378378,moderate,"citizenship_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.13430451626598738,8.953634417732491,13.430451626598739,28.03090909090909,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.1359192499935255,9.0612833329017,13.59192499935255,21.451666666666668,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,citizenship_status,0.13601709864150602,13.601709864150601,13.601709864150601,25.068292682926828,moderate,"citizenship_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.13688014765921808,1.8250686354562409,4.356787099247263,31.726530612244897,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.1388017059536033,1.8506894127147109,5.660377358490567,29.332075471698115,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.13900395957516765,1.853386127668902,6.228826278999961,23.031111111111112,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.14102416712515498,1.8803222283353997,4.25531914893617,33.07659574468085,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.14243696127621253,1.8991594836828336,3.990415540975171,38.865,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.14368218410920544,5.747287364368217,8.333333333333332,47.61666666666667,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,education_level,0.14490691032975753,9.660460688650502,14.490691032975755,36.49491525423729,moderate,"education_level is usable, but should be reported with caution and discussed as a partial-strength result."
+person,household_income,0.14521596044329665,7.260798022164833,14.521596044329666,38.42089552238806,moderate,"household_income is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.1465377249259046,1.9538363323453947,6.75293529367501,29.332075471698115,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.14668129611264677,9.778753074176452,14.66812961126468,37.149397590361446,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,citizenship_status,0.14707400921061164,14.707400921061165,14.707400921061167,61.668,moderate,"citizenship_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.14724315044427655,1.9632420059236873,4.988070102606847,26.127731092436974,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.14771729341813075,1.9695639122417434,5.596714379205612,33.79565217391304,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.14830943027090138,9.887295351393426,14.830943027090138,27.778378378378378,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.14835933151413946,9.89062210094263,14.835933151413949,35.853488372093025,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.14945417690379145,1.9927223587172194,7.719341184149012,37.917073170731705,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.15273510870963597,2.03646811612848,5.349414640421974,31.092,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.15412979951323147,6.165191980529259,15.41297995132315,26.57674418604651,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.15439810452061065,6.175924180824426,12.96545596510595,43.95384615384615,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.15771412178839728,10.514274785893152,15.771412178839729,39.60307692307693,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.15877293864693237,6.350917545877295,15.877293864693234,32.651428571428575,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.15981121636726997,6.392448654690799,12.903225806451612,36.86451612903226,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,citizenship_status,0.160407342543945,16.0407342543945,16.040734254394508,36.707142857142856,moderate,"citizenship_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.164283214160708,6.5713285664283205,13.651932596629829,40.81428571428572,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.164283214160708,6.5713285664283205,10.16300815040752,40.81428571428572,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.1678579496358787,2.2381059951450495,5.9872099160125245,24.481889763779527,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.16912105005505237,2.254947334067365,8.970529020702699,40.37922077922078,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.17339441330672722,11.559627553781816,17.339441330672724,32.584810126582276,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.17889178722101703,2.3852238296135604,10.347600225360113,26.80344827586207,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.18459618633105568,7.383847453242227,18.459618633105567,49.68695652173913,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.18813758428186683,2.5085011237582244,6.710070378126891,25.485245901639345,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.18909295624240066,2.5212394165653422,8.150296621522934,23.377443609022556,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.19440190759537979,7.7760763038151905,16.330504025201257,35.7125,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.19487716708866842,2.598362227848912,6.593406593406594,34.167032967032966,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.1969144869404742,13.12763246269828,19.69144869404742,24.866129032258065,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.20087279178262138,2.6783038904349517,6.315789473684211,32.72842105263158,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.20663072494532359,2.7550763326043146,5.224414640421974,48.58125,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,labour_force_status,0.21925258332685885,14.616838888457256,21.925258332685882,29.25227272727273,moderate,"labour_force_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.22986439663658556,3.064858621821141,13.12198520664299,34.934831460674154,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,immigrant_status,0.2378695786545792,15.85797191030528,23.786957865457918,60.45882352941177,moderate,"immigrant_status is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.24309809240462021,9.723923696184809,18.044495974798743,35.7125,moderate,"commute_duration is usable, but should be reported with caution and discussed as a partial-strength result."
+person,age_group,0.24862870308644142,3.315049374485886,14.814684864858545,47.10909090909091,moderate,"age_group is usable, but should be reported with caution and discussed as a partial-strength result."
+person,commute_duration,0.2531363410275777,10.125453641103107,17.418897260652503,30.073684210526316,weak,commute_duration is currently weak and should be framed as a limitation or refinement target.
+person,commute_duration,0.255512775638782,10.220511025551279,25.551277563878195,81.62857142857143,weak,commute_duration is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.5161290322580646,25.80645161290323,49.969413971697726,10.206451612903226,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.5333333333333333,26.666666666666668,51.68984407922461,10.546666666666667,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.5405405405405406,27.027027027027028,52.41056479994533,8.551351351351352,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.5511326750264804,27.55663375132402,55.113267502648036,8.551351351351352,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.5555555555555557,27.777777777777786,53.912066301446835,11.718518518518518,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.56,28.000000000000004,54.35651074589127,12.656,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6086956521739131,30.434782608695656,59.226075963282575,13.756521739130434,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6200000000000001,31.000000000000007,60.35651074589128,6.328,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6218629797993382,31.093148989966913,62.186297979933826,6.731914893617021,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6287263977814934,31.43631988907467,62.87263977814934,10.206451612903226,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6428571428571429,32.142857142857146,62.64222503160557,11.3,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6857142857142858,34.28571428571429,66.92793931731985,9.04,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.6923076923076924,34.61538461538462,67.58727997666051,8.112820512820512,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7000000000000001,35.0,68.35651074589128,10.546666666666667,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.705787329681135,35.28936648405675,70.5787329681135,8.78888888888889,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7069693627780617,35.34846813890308,70.69693627780617,6.731914893617021,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7142857142857143,35.714285714285715,69.78508217446272,9.04,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7255005913298805,36.27502956649403,72.55005913298805,10.206451612903226,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7317073170731708,36.585365853658544,71.52724245320834,7.717073170731707,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7335651074589128,36.67825537294564,73.35651074589128,19.775,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7391304347826088,36.95652173913044,72.26955422415216,13.756521739130434,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7560975609756099,37.804878048780495,73.96626684345226,7.717073170731707,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7692307692307693,38.46153846153847,75.2795876689682,12.169230769230769,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.7714285714285715,38.57142857142858,75.49936788874842,9.04,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.787878787878788,39.3939393939394,77.14438953377007,9.587878787878788,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.8148148148148148,40.74074074074074,79.83799222737275,11.718518518518518,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.8222747848782677,41.113739243913386,82.22747848782677,10.206451612903226,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.8437500000000001,42.18750000000001,82.73151074589128,9.8875,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.8461538461538461,42.30769230769231,82.9718953612759,12.169230769230769,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.
+person,commute_mode,0.8750000000000001,43.75000000000001,85.85651074589128,19.775,weak,commute_mode is currently weak and should be framed as a limitation or refinement target.

@@ -1,0 +1,13 @@
+{
+  "metric_plot_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\attribute_tvd.html",
+  "support_plot_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\support_assessment.html",
+  "sparse_plot_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\sparse_handling.html",
+  "assignment_route_plot_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\assignment_route_decisions.html",
+  "coherence_plot_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\household_coherence.html",
+  "dwelling_type_by_household_size_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\dwelling_type_by_household_size.html",
+  "tenure_by_household_type_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\tenure_by_household_type.html",
+  "period_built_by_dwelling_type_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\period_built_by_dwelling_type.html",
+  "commute_mode_by_age_labour_html": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\exploration\\commute_mode_by_age_labour.html",
+  "households_map_html": null,
+  "owners_share_map_html": null
+}

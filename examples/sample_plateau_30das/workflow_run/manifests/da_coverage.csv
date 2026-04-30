@@ -1,0 +1,10 @@
+table_name,n_unique_da_codes,selected_da_overlap
+age_sex_core,30,30
+commute,30,30
+dwelling_characteristics,30,30
+education_detailed,30,30
+household_type_size_detailed,30,30
+housing,30,30
+immigration_citizenship,30,30
+income_detailed,30,30
+labour_detailed,30,30

@@ -1,0 +1,12 @@
+2021 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - CD code
+COL2 - DA name
+COL3 - Population and dwelling counts / Population, 2021
+COL4 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data ; Both sexes / Canadian citizens ; Both sexes
+COL5 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data ; Both sexes / Not Canadian citizens ; Both sexes
+COL6 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data ; Both sexes
+COL7 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data ; Both sexes
+COL8 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data ; Both sexes / Non-immigrants ; Both sexes
+COL9 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data ; Both sexes / Immigrants ; Both sexes
+COL10 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data ; Both sexes / Non-permanent residents ; Both sexes

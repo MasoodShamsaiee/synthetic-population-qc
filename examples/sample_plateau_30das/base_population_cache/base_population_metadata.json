@@ -1,0 +1,6 @@
+{
+  "mode": "generated_from_raw_inputs",
+  "geography_scope": "montreal",
+  "selected_da_count": 30,
+  "generation_method": "hierarchical_pumf_household_sampling"
+}

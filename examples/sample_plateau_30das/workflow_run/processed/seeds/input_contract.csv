@@ -1,0 +1,13 @@
+artifact_type,artifact_name,required,found,details
+individual_pumf,person_seed_microdata,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\PUMF\ind\data_donnees_2021_ind_v2.csv
+household_pumf,household_seed_microdata,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\PUMF\heir\data_donnees_2021_hier_v2.csv
+housing_survey,chs_household_housing_seed,False,False,
+da_census_table,age_sex_core,True,True,"c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\age, sex\fMyRmd2RDbkDqUm_data.csv"
+da_census_table,education_detailed,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\education\udDo1DFAvI_data.csv
+da_census_table,labour_detailed,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\labour\EVtduVuRucOlsLjw_data.csv
+da_census_table,income_detailed,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\income\tEVGMRS0SSexK_data.csv
+da_census_table,household_type_size_detailed,True,True,"c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\hh type, size\sl5brrkpJ5_data.csv"
+da_census_table,dwelling_characteristics,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\dwelling char\V818MNIvbF_data.csv
+da_census_table,housing,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\housing\GxvbVaVRu_data.csv
+da_census_table,immigration_citizenship,True,True,"c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\imm, citiz\iilmxSwOn_data.csv"
+da_census_table,commute,True,True,c:\Users\m_hamsai\OneDrive - Concordia University - Canada\PhD Research\Codes and Projects\synthetic-population-qc\examples\sample_plateau_30das\raw\census\DA scale\commute\ASmEBfq1h9pC_data.csv

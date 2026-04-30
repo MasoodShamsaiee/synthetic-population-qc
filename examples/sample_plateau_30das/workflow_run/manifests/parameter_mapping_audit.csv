@@ -1,0 +1,64 @@
+section,parameter,source_name,source_value,internal_name,internal_value,public_name,public_value,action_type,notes
+column_rename,age_group,agegrp_core,,agegrp_core,,age_group,,rename,Canonical public output name.
+column_rename,family_status,cfstat_core,,cfstat_core,,family_status,,rename,Canonical public output name.
+column_rename,education_level,hdgree_core,,hdgree_core,,education_level,,rename,Canonical public output name.
+column_rename,household_size,hhsize_core,,hhsize_core,,household_size,,rename,Canonical public output name.
+column_rename,household_size,household_size_native,,household_size_native,,household_size,,rename,Canonical public output name.
+column_rename,household_type,household_type_native,,household_type_native,,household_type,,rename,Canonical public output name.
+column_rename,labour_force_status,lfact_core,,lfact_core,,labour_force_status,,rename,Canonical public output name.
+column_rename,sex,sex_native,,sex_native,,sex,,rename,Canonical public output name.
+column_rename,household_income,totinc_core,,totinc_core,,household_income,,rename,Canonical public output name.
+value_mapping,age_group,AGEGRP,10,age_group,10.0,age_group,0_to_4,label_merge,Existing harmonized age bucket bounds: 0 to 4
+value_mapping,age_group,AGEGRP,11,age_group,11.0,age_group,5_to_14,label_merge,Existing harmonized age bucket bounds: 5 to 14
+value_mapping,age_group,AGEGRP,12,age_group,12.0,age_group,15_to_24,label_merge,Existing harmonized age bucket bounds: 15 to 24
+value_mapping,age_group,AGEGRP,14,age_group,14.0,age_group,25_to_34,label_merge,Existing harmonized age bucket bounds: 25 to 34
+value_mapping,age_group,AGEGRP,15,age_group,15.0,age_group,35_to_39,label_merge,Existing harmonized age bucket bounds: 35 to 39
+value_mapping,age_group,AGEGRP,16,age_group,16.0,age_group,40_to_44,label_merge,Existing harmonized age bucket bounds: 40 to 44
+value_mapping,age_group,AGEGRP,17,age_group,17.0,age_group,45_to_49,label_merge,Existing harmonized age bucket bounds: 45 to 49
+value_mapping,age_group,AGEGRP,18,age_group,18.0,age_group,50_to_54,label_merge,Existing harmonized age bucket bounds: 50 to 54
+value_mapping,age_group,AGEGRP,19,age_group,19.0,age_group,55_to_59,label_merge,Existing harmonized age bucket bounds: 55 to 59
+value_mapping,age_group,AGEGRP,20,age_group,20.0,age_group,60_to_64,label_merge,Existing harmonized age bucket bounds: 60 to 64
+value_mapping,age_group,AGEGRP,21,age_group,21.0,age_group,65_to_69,label_merge,Existing harmonized age bucket bounds: 65 to 69
+value_mapping,age_group,AGEGRP,22,age_group,22.0,age_group,70_to_74,label_merge,Existing harmonized age bucket bounds: 70 to 74
+value_mapping,age_group,AGEGRP,23,age_group,23.0,age_group,75_to_79,label_merge,Existing harmonized age bucket bounds: 75 to 79
+value_mapping,age_group,AGEGRP,25,age_group,25.0,age_group,80_to_84,label_merge,Existing harmonized age bucket bounds: 80 to 84
+value_mapping,age_group,AGEGRP,26,age_group,26.0,age_group,85_plus,label_merge,Existing harmonized age bucket bounds: 85 to plus
+value_mapping,education_level,education_level,1684,education_level,1684.0,education_level,no_certificate_or_diploma,label,Harmonized internal code mapped to public category label.
+value_mapping,education_level,education_level,1685,education_level,1685.0,education_level,high_school_or_equivalent,label,Harmonized internal code mapped to public category label.
+value_mapping,education_level,education_level,1686,education_level,1686.0,education_level,postsecondary_certificate_diploma_or_degree,label,Harmonized internal code mapped to public category label.
+value_mapping,family_status,family_status,0,family_status,0.0,family_status,couple_without_children_family_member,label,Harmonized internal code mapped to public category label.
+value_mapping,family_status,family_status,1,family_status,1.0,family_status,couple_with_children_family_member,label,Harmonized internal code mapped to public category label.
+value_mapping,family_status,family_status,2,family_status,2.0,family_status,one_parent_family_member,label,Harmonized internal code mapped to public category label.
+value_mapping,family_status,family_status,3,family_status,3.0,family_status,non_census_family_person,label,Harmonized internal code mapped to public category label.
+value_mapping,family_status,family_status,4,family_status,4.0,family_status,one_person_household_person,label,Harmonized internal code mapped to public category label.
+value_mapping,household_income,household_income,695,household_income,695.0,household_income,lt_20k,label,Harmonized internal code mapped to public category label.
+value_mapping,household_income,household_income,697,household_income,697.0,household_income,20k_to_59k,label,Harmonized internal code mapped to public category label.
+value_mapping,household_income,household_income,701,household_income,701.0,household_income,60k_to_99k,label,Harmonized internal code mapped to public category label.
+value_mapping,household_income,household_income,705,household_income,705.0,household_income,100k_plus,label,Harmonized internal code mapped to public category label.
+value_mapping,labour_force_status,labour_force_status,1867,labour_force_status,1867.0,labour_force_status,employed,label,Harmonized internal code mapped to public category label.
+value_mapping,labour_force_status,labour_force_status,1868,labour_force_status,1868.0,labour_force_status,unemployed,label,Harmonized internal code mapped to public category label.
+value_mapping,labour_force_status,labour_force_status,1869,labour_force_status,1869.0,labour_force_status,not_in_labour_force,label,Harmonized internal code mapped to public category label.
+seed_transform,age_group,AGEGRP,88,age_group,,age_group,,drop,Dropped as unsupported/special age code in current harmonization.
+seed_transform,age_group,AGEGRP,27-29,age_group,26.0,age_group,26,collapse,Detailed 90+ tail codes now collapse into one harmonized 85_plus bucket.
+seed_transform,education_level,HDGREE,88,education_level,1684.0,education_level,1684,collapse,Treated as lowest education bucket in current harmonization.
+seed_transform,education_level,HDGREE,99,education_level,1684.0,education_level,1684,collapse,Treated as lowest education bucket in current harmonization.
+seed_transform,labour_force_status,LFACT,"1,2",labour_force_status,1867.0,labour_force_status,1867,collapse,Collapsed to employed.
+seed_transform,labour_force_status,LFACT,3-10,labour_force_status,1868.0,labour_force_status,1868,collapse,Collapsed to unemployed.
+seed_transform,labour_force_status,LFACT,11-99,labour_force_status,1869.0,labour_force_status,1869,collapse,Collapsed to not in labour force.
+seed_transform,household_size,HHSIZE,8,household_size,1.0,household_size,1,collapse,Current harmonization maps code 8 to size 1.
+seed_transform,household_size,HHSIZE,>5,household_size,5.0,household_size,5,collapse,All household sizes above 5 become 5plus.
+seed_transform,household_income,TotInc,88888888,household_income,,household_income,,drop,Dropped as invalid/missing income code.
+seed_transform,household_income,TotInc,99999999,household_income,695.0,household_income,695,collapse,Current harmonization maps this code to the lowest income band.
+seed_transform,household_income,TotInc,<20000,household_income,695.0,household_income,695,collapse,Collapsed to lt_20k.
+seed_transform,household_income,TotInc,20000-59999,household_income,697.0,household_income,697,collapse,Collapsed to 20k_to_59k.
+seed_transform,household_income,TotInc,60000-99999,household_income,701.0,household_income,701,collapse,Collapsed to 60k_to_99k.
+seed_transform,household_income,TotInc,>=100000,household_income,705.0,household_income,705,collapse,Collapsed to 100k_plus.
+seed_transform,prihm,PRIHM,9,prihm,0.0,prihm,0,collapse,Current harmonization maps code 9 to 0.
+seed_transform,family_status,CFSTAT,1,family_status,0.0,family_status,couple_without_children_family_member,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,2,family_status,1.0,family_status,couple_with_children_family_member,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,3,family_status,2.0,family_status,one_parent_family_member,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,4,family_status,1.0,family_status,couple_with_children_family_member,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,5,family_status,2.0,family_status,one_parent_family_member,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,6,family_status,4.0,family_status,one_person_household_person,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,7,family_status,3.0,family_status,non_census_family_person,collapse,CFSTAT collapsed to harmonized family-status role.
+seed_transform,family_status,CFSTAT,8,family_status,3.0,family_status,non_census_family_person,collapse,CFSTAT collapsed to harmonized family-status role.

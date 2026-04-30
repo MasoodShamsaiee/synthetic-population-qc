@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "synthetic-population-qc"
 version = "0.1.0"
-description = "Synthetic population generation, household assignment, and DA-level quality evaluation workflows for Quebec census geographies."
+description = "Bundle-first synthetic population generation and DA-level evaluation workflows for Canadian census geographies."
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
@@ -19,11 +19,13 @@ dependencies = [
   "geopandas",
   "pyarrow",
   "tqdm",
-  "pyreadstat",
   "humanleague",
 ]
 
 [project.optional-dependencies]
+maps = [
+  "urban-energy-core",
+]
 dev = [
   "pytest",
   "pytest-cov",

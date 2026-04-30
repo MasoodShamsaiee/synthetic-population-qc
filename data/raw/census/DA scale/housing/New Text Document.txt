@@ -1,0 +1,26 @@
+2021 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Owner
+COL2 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Renter
+COL3 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Dwelling provided by the local government, First Nation or Indian band
+COL4 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data / Condominium
+COL5 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data / Not condominium
+COL6 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / No bedrooms
+COL7 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 1 bedroom
+COL8 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 2 bedrooms
+COL9 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 3 bedrooms
+COL10 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 4 or more bedrooms
+COL11 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data / Suitable
+COL12 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data / Not suitable
+COL13 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1960 or before
+COL14 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1961 to 1980
+COL15 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1981 to 1990
+COL16 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1991 to 2000
+COL17 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2001 to 2005
+COL18 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2006 to 2010
+COL19 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2011 to 2015
+COL20 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2016 to 2021
+COL21 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance and minor repairs needed
+COL22 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
+COL23 - Housing - Total Sex / Total - Owner and tenant households with household total income greater than zero and shelter-cost-to-income ratio less than 100%, in non-farm, non-reserve private dwellings - 25% sample data / In core need
+COL24 - Housing - Total Sex / Total - Owner and tenant households with household total income greater than zero and shelter-cost-to-income ratio less than 100%, in non-farm, non-reserve private dwellings - 25% sample data / Not in core need

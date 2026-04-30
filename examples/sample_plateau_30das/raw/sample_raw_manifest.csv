@@ -1,0 +1,2 @@
+sample_data_root,sample_raw_root,sample_pumf_root,sample_chs_root,province,da_codes_file,n_das
+examples/sample_plateau_30das,examples/sample_plateau_30das/raw,examples/sample_plateau_30das/raw/PUMF,,24,examples/sample_plateau_30das/da_codes.txt,30

@@ -1,0 +1,227 @@
+{
+  "workflow_name": "energy_population_workflow",
+  "workflow_version": "bundle_v1",
+  "workflow_method": "joint_ipu_v1",
+  "geography_scope": "montreal",
+  "da_scope_name": null,
+  "province": "24",
+  "random_seed": 42,
+  "max_das": null,
+  "da_codes": [
+    "24661817",
+    "24661829",
+    "24661830",
+    "24661831",
+    "24661832",
+    "24661833",
+    "24661835",
+    "24661836",
+    "24661837",
+    "24661838",
+    "24661839",
+    "24661840",
+    "24661895",
+    "24661896",
+    "24661897",
+    "24661898",
+    "24661899",
+    "24661900",
+    "24661901",
+    "24661902",
+    "24661903",
+    "24661904",
+    "24661905",
+    "24661906",
+    "24661907",
+    "24661908",
+    "24661909",
+    "24661910",
+    "24661912",
+    "24661913"
+  ],
+  "da_codes_file": null,
+  "age_group_scheme": "default_15",
+  "age_group_breaks": null,
+  "generate_exploration": true,
+  "raw_data": {
+    "data_root": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das",
+    "census_pumf_root": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\raw\\PUMF",
+    "housing_survey_root": null,
+    "geometry_root": "C:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\urban-energy-data\\data\\raw\\geometry",
+    "base_population_path": null
+  },
+  "processed_cache_dir": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\processed_input_cache",
+  "base_population_cache_path": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\base_population_cache\\syn_inds_with_hh_core_population.parquet",
+  "core_generation_attributes": [],
+  "all_workflow_attributes": [
+    {
+      "attribute": "sex",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "age_sex_core",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "age_group",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "age_sex_core",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "household_type",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "household_type_size_detailed",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "household_size",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "household_type_size_detailed",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "education_level",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "education_detailed",
+      "restricted_universe": "age_25_64"
+    },
+    {
+      "attribute": "labour_force_status",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "labour_detailed",
+      "restricted_universe": "age_15_plus"
+    },
+    {
+      "attribute": "household_income",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "income_detailed",
+      "restricted_universe": "age_15_plus"
+    },
+    {
+      "attribute": "tenure",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "dwelling_type",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "dwelling_characteristics",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "citizenship_status",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "immigration_citizenship",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "immigrant_status",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "immigration_citizenship",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "commute_mode",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "commute",
+      "restricted_universe": "employed"
+    },
+    {
+      "attribute": "commute_duration",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "commute",
+      "restricted_universe": "employed"
+    },
+    {
+      "attribute": "bedrooms",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "period_built",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "dwelling_condition",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "core_housing_need",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    }
+  ],
+  "evaluated_attributes": [
+    "sex",
+    "age_group",
+    "household_type",
+    "household_size",
+    "education_level",
+    "labour_force_status",
+    "household_income",
+    "tenure",
+    "dwelling_type",
+    "citizenship_status",
+    "immigrant_status",
+    "commute_mode",
+    "commute_duration",
+    "bedrooms",
+    "period_built",
+    "dwelling_condition",
+    "core_housing_need"
+  ],
+  "workflow_artifacts": {
+    "output_dir": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow",
+    "people_parquet": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_people.parquet",
+    "households_parquet": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_households.parquet",
+    "workflow_plan_json": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_plan.json",
+    "assignment_route_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_assignment_route_decisions.csv",
+    "household_coherence_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_household_coherence_audit.csv",
+    "summary_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_metric_summary.csv",
+    "details_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_metric_details.csv",
+    "results_summary_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_results_summary.csv",
+    "support_classification_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_support_classification.csv",
+    "sparse_handling_csv": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_sparse_handling.csv",
+    "metadata_json": "c:\\Users\\m_hamsai\\OneDrive - Concordia University - Canada\\PhD Research\\Codes and Projects\\synthetic-population-qc\\examples\\sample_plateau_30das\\workflow_run\\_cache\\energy_workflow\\energy_workflow_metadata.json"
+  }
+}

@@ -1,0 +1,43 @@
+2021 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - CD code
+COL2 - DA name
+COL3 - Population and dwelling counts / Population, 2021
+COL4 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 0 to 14 years ; Males / 0 to 4 years ; Males
+COL5 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 0 to 14 years ; Males / 5 to 9 years ; Males
+COL6 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 0 to 14 years ; Males / 10 to 14 years ; Males
+COL7 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 15 to 19 years ; Males
+COL8 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 20 to 24 years ; Males
+COL9 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 25 to 29 years ; Males
+COL10 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 30 to 34 years ; Males
+COL11 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 35 to 39 years ; Males
+COL12 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 40 to 44 years ; Males
+COL13 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 45 to 49 years ; Males
+COL14 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 50 to 54 years ; Males
+COL15 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 55 to 59 years ; Males
+COL16 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 15 to 64 years ; Males / 60 to 64 years ; Males
+COL17 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 65 years and over ; Males / 65 to 69 years ; Males
+COL18 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 65 years and over ; Males / 70 to 74 years ; Males
+COL19 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 65 years and over ; Males / 75 to 79 years ; Males
+COL20 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 65 years and over ; Males / 80 to 84 years ; Males
+COL21 - Age & Sex - Males / Total - Age groups of the population - 100% data ; Males / 65 years and over ; Males / 85 years and over ; Males
+COL22 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 0 to 14 years ; Females / 0 to 4 years ; Females
+COL23 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 0 to 14 years ; Females / 5 to 9 years ; Females
+COL24 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 0 to 14 years ; Females / 10 to 14 years ; Females
+COL25 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 15 to 19 years ; Females
+COL26 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 20 to 24 years ; Females
+COL27 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 25 to 29 years ; Females
+COL28 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 30 to 34 years ; Females
+COL29 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 35 to 39 years ; Females
+COL30 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 40 to 44 years ; Females
+COL31 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 45 to 49 years ; Females
+COL32 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 50 to 54 years ; Females
+COL33 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 55 to 59 years ; Females
+COL34 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 15 to 64 years ; Females / 60 to 64 years ; Females
+COL35 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 65 years and over ; Females / 65 to 69 years ; Females
+COL36 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 65 years and over ; Females / 70 to 74 years ; Females
+COL37 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 65 years and over ; Females / 75 to 79 years ; Females
+COL38 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 65 years and over ; Females / 80 to 84 years ; Females
+COL39 - Age & Sex - Females / Total - Age groups of the population - 100% data ; Females / 65 years and over ; Females / 85 years and over ; Females
+COL40 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data ; Both sexes / Canadian citizens ; Both sexes
+COL41 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data ; Both sexes / Not Canadian citizens ; Both sexes

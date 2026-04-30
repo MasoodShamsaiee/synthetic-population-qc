@@ -1,0 +1,20 @@
+name: synthetic-population-qc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - plotly
+  - geopandas
+  - pyarrow
+  - tqdm
+  - ipykernel
+  - pytest
+  - pytest-cov
+  - ruff
+  - black
+  - pip:
+      - humanleague
+      - -e .

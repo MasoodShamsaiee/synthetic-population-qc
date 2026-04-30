@@ -1,0 +1,185 @@
+{
+  "workflow_method": "joint_ipu_v1",
+  "selected_da_count": 30,
+  "selected_da_codes": [
+    "24661817",
+    "24661829",
+    "24661830",
+    "24661831",
+    "24661832",
+    "24661833",
+    "24661835",
+    "24661836",
+    "24661837",
+    "24661838",
+    "24661839",
+    "24661840",
+    "24661895",
+    "24661896",
+    "24661897",
+    "24661898",
+    "24661899",
+    "24661900",
+    "24661901",
+    "24661902",
+    "24661903",
+    "24661904",
+    "24661905",
+    "24661906",
+    "24661907",
+    "24661908",
+    "24661909",
+    "24661910",
+    "24661912",
+    "24661913"
+  ],
+  "derived_output_attributes": [
+    "family_status"
+  ],
+  "workflow_steps": [
+    "prepare_inputs_and_scope",
+    "build_unified_controls",
+    "smooth_da_targets",
+    "fit_joint_household_donors",
+    "materialize_synthetic_population",
+    "validate_joint_fit"
+  ],
+  "all_workflow_attributes": [
+    {
+      "attribute": "sex",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "age_sex_core",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "age_group",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "age_sex_core",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "household_type",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "household_type_size_detailed",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "household_size",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_1",
+      "target_source": "household_type_size_detailed",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "education_level",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "education_detailed",
+      "restricted_universe": "age_25_64"
+    },
+    {
+      "attribute": "labour_force_status",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "labour_detailed",
+      "restricted_universe": "age_15_plus"
+    },
+    {
+      "attribute": "household_income",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "income_detailed",
+      "restricted_universe": "age_15_plus"
+    },
+    {
+      "attribute": "tenure",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "dwelling_type",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_2",
+      "target_source": "dwelling_characteristics",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "citizenship_status",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "immigration_citizenship",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "immigrant_status",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "immigration_citizenship",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "commute_mode",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "commute",
+      "restricted_universe": "employed"
+    },
+    {
+      "attribute": "commute_duration",
+      "unit": "person",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "commute",
+      "restricted_universe": "employed"
+    },
+    {
+      "attribute": "bedrooms",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "period_built",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "dwelling_condition",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    },
+    {
+      "attribute": "core_housing_need",
+      "unit": "household",
+      "workflow_role": "joint_fit",
+      "control_tier": "tier_3",
+      "target_source": "housing",
+      "restricted_universe": "all"
+    }
+  ]
+}

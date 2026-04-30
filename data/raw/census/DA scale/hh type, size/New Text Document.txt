@@ -1,0 +1,14 @@
+2021 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - DA name
+COL2 - Households by type / Total - Household type - 100% data / One-census-family households without additional persons
+COL3 - Households by type / Total - Household type - 100% data / Two-or-more-person non-census-family households 
+COL4 - Households by type / Total - Household type - 100% data / One-person households
+COL5 - Households by type / Total - Household type - 100% data / One-census-family households without additional persons / Couple-family households / With children
+COL6 - Households by type / Total - Household type - 100% data / One-census-family households without additional persons / Couple-family households / Without children
+COL7 - Households by type / Total - Household type - 100% data / One-census-family households without additional persons / One-parent-family households
+COL8 - Households by type / Total - Household type - 100% data / Multigenerational households
+COL9 - Family characteristics / Total - Census families in private households by family size - 100% data / 2 persons
+COL10 - Family characteristics / Total - Census families in private households by family size - 100% data / 3 persons
+COL11 - Family characteristics / Total - Census families in private households by family size - 100% data / 4 persons
+COL12 - Family characteristics / Total - Census families in private households by family size - 100% data / 5 or more persons
